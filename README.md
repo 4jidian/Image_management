@@ -46,8 +46,11 @@ organize_images_by_size(dir, size_threshold=1000000, max_files_per_folder=30)
 
 
 
-#### 整理前：<img width="1463" height="402" alt="屏幕截图 2025-09-05 151416" src="https://github.com/user-attachments/assets/7fc88071-05d5-4a4d-b0ac-991d808093eb" />
-![屏幕截图 2025-09-05 151416](D:\FileManagement-master\img\屏幕截图 2025-09-05 151416.png)
+#### 整理前：
+<img width="1463" height="402" alt="屏幕截图 2025-09-05 151416" src="https://github.com/user-attachments/assets/86e4f7f6-cf64-4879-be0a-e596dcb9bc1f" />
+
 
 #### 整理后：
-![屏幕截图 2025-09-05 151530](D:\FileManagement-master\img\屏幕截图 2025-09-05 151530.png)
+<img width="914" height="138" alt="屏幕截图 2025-09-05 151530" src="https://github.com/user-attachments/assets/d271e659-88f5-45c2-b70c-6b42f1e51d47" />
+
+
