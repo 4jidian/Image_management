@@ -1,5 +1,5 @@
 # ImageOrganization
-为满足个人日常文件管理需求而诞生的实用小工具库，非常简单
+为满足个人日常图片管理需求而诞生的实用小工具库，非常简单，图片分类目前只能按照大小和数量分类，更多功能正在开发
 ## 一、基本用法
 ### 1、前提
 已安装python，可直接在cmd下使用
@@ -46,7 +46,7 @@ organize_images_by_size(dir, size_threshold=1000000, max_files_per_folder=30)
 
 
 
-#### 整理前：![屏幕截图 2025-09-05 151416](D:\zhuomian\FileManagement-master\img\屏幕截图 2025-09-05 151416.png)
+#### 整理前：![屏幕截图 2025-09-05 151416](D:\FileManagement-master\img\屏幕截图 2025-09-05 151416.png)
 
 #### 整理后：
-![屏幕截图 2025-09-05 151530](D:\zhuomian\FileManagement-master\img\屏幕截图 2025-09-05 151530.png)
+![屏幕截图 2025-09-05 151530](D:\FileManagement-master\img\屏幕截图 2025-09-05 151530.png)
