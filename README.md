@@ -11,7 +11,7 @@
 图片文件过多，需要简单整理
 #### 参数设置：
 ##### ①指定要整理的文件夹路径
-<del>修改文件`Image_management.py`中的`dir = r'E:\Paper'`</del>
+<s>修改文件`Image_management.py`中的`dir = r'E:\Paper'`</s>
 ##### ②设置文件夹容量
 修改文件`Image_management.py`中的`max_files_per_folder=0`，该参数指定每个文件夹下文件个数上限，0表示无限制
 
