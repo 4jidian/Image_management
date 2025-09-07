@@ -6,12 +6,12 @@
 ### 2、执行方法
 简单修改代码设置参数后，直接在cmd下执行.py文件即可，如`python Image_management.py`，可根据需要选择要执行的文件
 ## 二、工程简介
-### 1、Image_management.py
+### 1、image_organizer_multilingual.py
 #### 需求背景
 图片文件过多，需要简单整理
 #### 参数设置：
 ##### ①指定要整理的文件夹路径
-修改文件`Image_management.py`中的`dir = r'E:\Paper'`
+<del>修改文件`Image_management.py`中的`dir = r'E:\Paper'`</del>
 ##### ②设置文件夹容量
 修改文件`Image_management.py`中的`max_files_per_folder=0`，该参数指定每个文件夹下文件个数上限，0表示无限制
 
