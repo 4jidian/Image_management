@@ -56,4 +56,4 @@ organize_images_by_size(dir, size_threshold=1000000, max_files_per_folder=30)
 
 
 #### 更新：2025.9.27
-重大更新：新增了GUI界面，现在只需要选择模式即可
+重大更新：新增了GUI界面，现在只需要在选择模式和地址即可
