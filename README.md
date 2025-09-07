@@ -12,6 +12,7 @@
 #### 参数设置：
 ##### ①指定要整理的文件夹路径
 <s>修改文件`Image_management.py`中的`dir = r'E:\Paper'`</s>
+请查看更新
 ##### ②设置文件夹容量
 修改文件`Image_management.py`中的`max_files_per_folder=0`，该参数指定每个文件夹下文件个数上限，0表示无限制
 
@@ -54,3 +55,5 @@ organize_images_by_size(dir, size_threshold=1000000, max_files_per_folder=30)
 <img width="914" height="138" alt="屏幕截图 2025-09-05 151530" src="https://github.com/user-attachments/assets/d271e659-88f5-45c2-b70c-6b42f1e51d47" />
 
 
+#### 更新：2025.9.27
+重大更新：新增了GUI界面，现在只需要选择模式即可
