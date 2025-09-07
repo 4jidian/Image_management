@@ -57,3 +57,5 @@ organize_images_by_size(dir, size_threshold=1000000, max_files_per_folder=30)
 
 #### 更新：2025.9.27
 重大更新：新增了GUI界面，现在只需要在选择模式和地址即可
+<img width="594" height="570" alt="屏幕截图 2025-09-07 232646" src="https://github.com/user-attachments/assets/606cdc44-b70d-4399-b1da-b18656be1b5f" />
+
