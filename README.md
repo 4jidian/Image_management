@@ -55,10 +55,15 @@ organize_images_by_size(dir, size_threshold=1000000, max_files_per_folder=30)
 <img width="914" height="138" alt="屏幕截图 2025-09-05 151530" src="https://github.com/user-attachments/assets/d271e659-88f5-45c2-b70c-6b42f1e51d47" />
 
 
-#### 更新：2025.9.27
+#### 更新：
+2025.9.7
 重大更新：
 1.新增了GUI界面，现在只需要在选择模式和地址即可
 2.界面会根据计算机系统语言自动更改语言，也可在左上角自行选择
+
+9.13
+1.修复文字显示错误
+2.新增删除重复
          
 <img width="594" height="570" alt="屏幕截图 2025-09-07 232646" src="https://github.com/user-attachments/assets/606cdc44-b70d-4399-b1da-b18656be1b5f" />
 
